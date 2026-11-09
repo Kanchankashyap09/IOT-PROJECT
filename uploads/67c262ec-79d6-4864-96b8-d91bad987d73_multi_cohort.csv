@@ -1,0 +1,8 @@
+InvoiceNo,CustomerID,OrderDate,Product,Quantity,UnitPrice
+INV-1,C1,2024-01-05,Product A,1,50
+INV-2,C2,2024-01-10,Product B,1,60
+INV-3,C1,2024-02-05,Product A,1,50
+INV-4,C3,2024-02-12,Product C,1,70
+INV-5,C1,2024-03-05,Product A,1,50
+INV-6,C2,2024-03-15,Product B,1,60
+INV-7,C3,2024-03-20,Product C,1,70

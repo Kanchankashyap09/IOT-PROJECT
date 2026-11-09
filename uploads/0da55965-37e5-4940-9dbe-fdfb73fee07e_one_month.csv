@@ -1,0 +1,4 @@
+InvoiceNo,CustomerID,OrderDate,Product,Quantity,UnitPrice
+INV-M1,C1,2024-05-01,Shirt,1,20
+INV-M2,C2,2024-05-15,Pants,1,40
+INV-M3,C3,2024-05-28,Hat,2,15

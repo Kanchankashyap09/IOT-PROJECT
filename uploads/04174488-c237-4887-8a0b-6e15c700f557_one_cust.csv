@@ -1,0 +1,3 @@
+InvoiceNo,CustomerID,OrderDate,Product,Quantity,UnitPrice
+INV-1,CUST-999,2024-01-10,Laptop,1,1200
+INV-2,CUST-999,2024-02-15,Mouse,2,25

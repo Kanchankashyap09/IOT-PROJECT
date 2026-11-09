@@ -1,0 +1,5 @@
+InvoiceNo,CustomerID,OrderDate,Product,Quantity,UnitPrice
+INV-1,,2024-01-05,Coffee,1,5
+INV-2,,2024-01-06,Tea,1,4
+INV-3,KNOWN-1,2024-01-07,Pastry,2,6
+INV-4,KNOWN-1,2024-01-08,Sandwich,1,8

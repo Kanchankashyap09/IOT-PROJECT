@@ -1,0 +1,11 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+MSH2026001,MSH001,Women's Printed Kurti,2,2026-10-01 10:15:00,499.0,10001,India
+MSH2026002,MSH002,Men's Casual Cotton Shirt,1,2026-10-01 11:42:00,599.0,10002,India
+MSH2026003,MSH003,Wireless Bluetooth Earbuds,1,2026-10-02 09:20:00,899.0,10003,India
+MSH2026004,MSH004,Stainless Steel Water Bottle,3,2026-10-02 14:05:00,249.0,10004,India
+MSH2026005,MSH005,Women's Casual Sandals,1,2026-10-03 16:30:00,399.0,10005,India
+MSH2026006,MSH006,Decorative LED String Lights,2,2026-10-04 18:10:00,299.0,10006,India
+MSH2026007,MSH007,Kitchen Storage Container Set,1,2026-10-05 12:25:00,749.0,10007,India
+MSH2026008,MSH008,Men's Sports Running Shoes,1,2026-10-06 08:55:00,999.0,10008,India
+MSH2026009,MSH009,Cotton Bedsheet Double Size,2,2026-10-07 20:15:00,649.0,10009,India
+MSH2026010,MSH010,Mobile Phone Back Cover,4,2026-10-08 13:40:00,149.0,10010,India

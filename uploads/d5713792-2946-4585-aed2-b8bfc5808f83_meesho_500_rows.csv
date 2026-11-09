@@ -1,0 +1,501 @@
+﻿InvoiceNo,InvoiceDate,CustomerID,StockCode,Description,Category,Quantity,UnitPrice,Country,PaymentMethod,OrderStatus
+MSH60001,07/11/2025,CUST1016,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,329.1,India,Card,Delivered
+MSH60001,22/08/2025,CUST1060,MSH-ELE-002,Mobile Cover,Electronics Accessories,1,147.66,India,Wallet,Delivered
+MSH60002,23/09/2025,CUST1079,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,482.82,India,UPI,Delivered
+MSH60002,21/08/2025,CUST1040,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,274.62,India,UPI,Delivered
+MSH60003,09/04/2025,CUST1057,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,752.72,India,COD,Delivered
+MSH60003,05/01/2025,CUST1028,MSH-HOM-002,Double Bedsheet,Home & Kitchen,1,502.66,India,Card,Delivered
+MSH60004,12/07/2025,CUST1052,MSH-FSH-004,Men Casual Shirt,Men Fashion,3,418.61,India,Card,Delivered
+MSH60004,06/05/2025,CUST1001,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,465.74,India,COD,Delivered
+MSH60005,06/06/2025,CUST1020,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,2,363.93,India,COD,Delivered
+MSH60005,29/06/2025,CUST1039,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,246.42,India,UPI,Delivered
+MSH60006,13/01/2025,CUST1058,MSH-ACC-002,Womens Handbag,Accessories,1,615.33,India,COD,Delivered
+MSH60006,30/07/2025,CUST1064,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,447.05,India,Wallet,Returned
+MSH60007,09/05/2025,CUST1005,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,400.44,India,UPI,Delivered
+MSH60007,11/05/2025,CUST1017,MSH-ACC-002,Womens Handbag,Accessories,4,720.69,India,UPI,Delivered
+MSH60008,08/02/2025,CUST1081,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,463.01,India,COD,Delivered
+MSH60008,09/01/2025,CUST1008,MSH-FSH-002,Cotton Saree,Women Fashion,1,588.66,India,COD,Delivered
+MSH60009,20/06/2025,CUST1048,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,3,363.89,India,Card,Returned
+MSH60009,22/11/2025,CUST1050,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,2,251.96,India,UPI,Returned
+MSH60010,08/10/2025,CUST1051,MSH-ACC-002,Womens Handbag,Accessories,1,688.26,India,COD,Delivered
+MSH60010,25/10/2025,CUST1029,MSH-FSH-002,Cotton Saree,Women Fashion,2,614.4,India,UPI,Delivered
+MSH60011,12/01/2025,CUST1056,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,2,233.57,India,UPI,Delivered
+MSH60011,04/05/2025,CUST1036,MSH-FSH-002,Cotton Saree,Women Fashion,2,550.71,India,COD,Delivered
+MSH60012,29/12/2025,CUST1075,MSH-ACC-002,Womens Handbag,Accessories,1,652.39,India,COD,Delivered
+MSH60012,10/05/2025,CUST1025,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,778.95,India,COD,Cancelled
+MSH60013,13/07/2025,CUST1064,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,127.78,India,Card,Delivered
+MSH60013,21/11/2025,CUST1078,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,2,293.84,India,UPI,Delivered
+MSH60014,01/01/2025,CUST1031,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,268.9,India,UPI,Delivered
+MSH60014,18/12/2025,CUST1065,MSH-FSH-005,Kids Party Dress,Kids Fashion,3,466.16,India,UPI,Delivered
+MSH60015,04/09/2025,CUST1057,MSH-FSH-003,Printed Leggings,Women Fashion,2,170.39,India,COD,Delivered
+MSH60015,16/02/2025,CUST1074,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,367.44,India,UPI,Delivered
+MSH60016,14/01/2025,CUST1004,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,359.29,India,UPI,Delivered
+MSH60016,19/12/2025,CUST1015,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,2,311.81,India,UPI,Returned
+MSH60017,13/11/2025,CUST1073,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,464.26,India,COD,Delivered
+MSH60017,03/03/2025,CUST1020,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,4,740.54,India,COD,Delivered
+MSH60018,09/09/2025,CUST1007,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,389.3,India,UPI,Delivered
+MSH60018,30/08/2025,CUST1064,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,2,384.94,India,UPI,Returned
+MSH60019,08/11/2025,CUST1025,MSH-HOM-004,Water Bottle Set,Home & Kitchen,2,197.18,India,COD,Delivered
+MSH60019,11/05/2025,CUST1040,MSH-ACC-002,Womens Handbag,Accessories,2,624.43,India,Card,Delivered
+MSH60020,16/03/2025,CUST1075,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,461.4,India,UPI,Delivered
+MSH60020,17/03/2025,CUST1009,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,517.09,India,UPI,Delivered
+MSH60021,22/02/2025,CUST1037,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,2,251.36,India,UPI,Delivered
+MSH60021,29/06/2025,CUST1045,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,4,388.63,India,UPI,Returned
+MSH60022,10/01/2025,CUST1018,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,2,769.35,India,UPI,Delivered
+MSH60022,12/11/2025,CUST1064,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,218.46,India,Wallet,Delivered
+MSH60023,11/11/2025,CUST1085,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,441.23,India,UPI,Delivered
+MSH60023,26/06/2025,CUST1072,MSH-FSH-002,Cotton Saree,Women Fashion,1,628.13,India,UPI,Delivered
+MSH60024,03/01/2025,CUST1078,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,403.39,India,Wallet,Returned
+MSH60024,16/08/2025,CUST1035,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,4,385.43,India,Card,Delivered
+MSH60025,19/04/2025,CUST1055,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,705.36,India,COD,Delivered
+MSH60025,15/03/2025,CUST1008,MSH-FSH-001,Women Floral Kurti,Women Fashion,3,366.42,India,UPI,Delivered
+MSH60026,25/07/2025,CUST1051,MSH-FSH-003,Printed Leggings,Women Fashion,1,167.59,India,COD,Delivered
+MSH60026,04/01/2025,CUST1077,MSH-FSH-003,Printed Leggings,Women Fashion,1,178.74,India,Card,Returned
+MSH60027,20/10/2025,CUST1064,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,504.82,India,UPI,Delivered
+MSH60027,26/12/2025,CUST1028,MSH-ELE-002,Mobile Cover,Electronics Accessories,1,150.03,India,UPI,Delivered
+MSH60028,03/04/2025,CUST1011,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,431.67,India,UPI,Delivered
+MSH60028,06/07/2025,CUST1063,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,372.83,India,UPI,Delivered
+MSH60029,25/11/2025,CUST1040,MSH-FSH-002,Cotton Saree,Women Fashion,1,612.85,India,Card,Delivered
+MSH60029,19/01/2025,CUST1055,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,757.4,India,UPI,Delivered
+MSH60030,16/02/2025,CUST1008,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,3,282.6,India,COD,Delivered
+MSH60030,04/11/2025,CUST1010,MSH-ACC-002,Womens Handbag,Accessories,1,671.45,India,Card,Returned
+MSH60031,29/05/2025,CUST1027,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,795.81,India,UPI,Delivered
+MSH60031,18/11/2025,CUST1072,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,833.61,India,Card,Returned
+MSH60032,09/06/2025,CUST1078,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,2,803.79,India,COD,Delivered
+MSH60032,23/02/2025,CUST1049,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,434.63,India,COD,Delivered
+MSH60033,24/02/2025,CUST1007,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,257.0,India,UPI,Delivered
+MSH60033,31/05/2025,CUST1029,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,494.91,India,COD,Delivered
+MSH60034,02/11/2025,CUST1067,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,307.5,India,Wallet,Delivered
+MSH60034,10/12/2025,CUST1040,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,384.34,India,COD,Delivered
+MSH60035,03/04/2025,CUST1082,MSH-ELE-002,Mobile Cover,Electronics Accessories,3,140.23,India,COD,Delivered
+MSH60035,22/02/2025,CUST1016,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,335.22,India,UPI,Delivered
+MSH60036,11/06/2025,CUST1026,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,3,254.26,India,COD,Delivered
+MSH60036,01/04/2025,CUST1004,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,2,282.43,India,COD,Delivered
+MSH60037,21/02/2025,CUST1025,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,2,293.89,India,UPI,Delivered
+MSH60037,31/10/2025,CUST1048,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,265.9,India,UPI,Delivered
+MSH60038,04/09/2025,CUST1062,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,2,237.35,India,Card,Delivered
+MSH60038,28/01/2025,CUST1032,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,202.52,India,COD,Delivered
+MSH60039,17/12/2025,CUST1007,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,286.06,India,Card,Delivered
+MSH60039,28/07/2025,CUST1076,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,467.21,India,Wallet,Delivered
+MSH60040,06/03/2025,CUST1075,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,204.78,India,UPI,Returned
+MSH60040,08/08/2025,CUST1027,MSH-FSH-003,Printed Leggings,Women Fashion,2,166.7,India,UPI,Delivered
+MSH60041,05/06/2025,CUST1060,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,2,384.76,India,UPI,Delivered
+MSH60041,22/06/2025,CUST1003,MSH-ACC-002,Womens Handbag,Accessories,1,687.48,India,Wallet,Delivered
+MSH60042,11/04/2025,CUST1008,MSH-ELE-002,Mobile Cover,Electronics Accessories,2,139.5,India,Card,Delivered
+MSH60042,17/03/2025,CUST1085,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,205.23,India,COD,Delivered
+MSH60043,24/10/2025,CUST1080,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,315.04,India,COD,Delivered
+MSH60043,08/07/2025,CUST1055,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,331.08,India,UPI,Delivered
+MSH60044,02/09/2025,CUST1075,MSH-ELE-002,Mobile Cover,Electronics Accessories,3,152.08,India,UPI,Returned
+MSH60044,29/04/2025,CUST1043,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,757.38,India,COD,Delivered
+MSH60045,25/10/2025,CUST1007,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,336.58,India,UPI,Delivered
+MSH60045,16/12/2025,CUST1002,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,402.5,India,Card,Delivered
+MSH60046,31/01/2025,CUST1068,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,232.65,India,Card,Delivered
+MSH60046,01/08/2025,CUST1064,MSH-FSH-004,Men Casual Shirt,Men Fashion,3,399.84,India,UPI,Delivered
+MSH60047,11/05/2025,CUST1033,MSH-FSH-002,Cotton Saree,Women Fashion,1,608.37,India,COD,Delivered
+MSH60047,07/02/2025,CUST1012,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,193.52,India,COD,Cancelled
+MSH60048,28/04/2025,CUST1051,MSH-ELE-002,Mobile Cover,Electronics Accessories,1,149.26,India,Card,Returned
+MSH60048,19/07/2025,CUST1006,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,396.94,India,Wallet,Returned
+MSH60049,17/04/2025,CUST1025,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,2,266.31,India,Wallet,Delivered
+MSH60049,08/12/2025,CUST1013,MSH-ACC-002,Womens Handbag,Accessories,1,679.3,India,COD,Delivered
+MSH60050,29/04/2025,CUST1051,MSH-HOM-002,Double Bedsheet,Home & Kitchen,3,554.96,India,COD,Delivered
+MSH60050,31/07/2025,CUST1014,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,374.67,India,Card,Delivered
+MSH60051,14/01/2025,CUST1075,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,357.17,India,Card,Delivered
+MSH60051,07/02/2025,CUST1024,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,385.23,India,Card,Delivered
+MSH60052,07/08/2025,CUST1031,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,2,379.58,India,Wallet,Delivered
+MSH60052,27/03/2025,CUST1074,MSH-ACC-001,Fashion Jewellery Set,Accessories,2,237.88,India,Wallet,Delivered
+MSH60053,13/10/2025,CUST1054,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,118.58,India,UPI,Delivered
+MSH60053,03/08/2025,CUST1084,MSH-FSH-003,Printed Leggings,Women Fashion,2,178.18,India,UPI,Delivered
+MSH60054,14/02/2025,CUST1053,MSH-FSH-003,Printed Leggings,Women Fashion,2,161.44,India,UPI,Delivered
+MSH60054,29/05/2025,CUST1040,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,293.25,India,UPI,Cancelled
+MSH60055,27/12/2025,CUST1014,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,2,755.07,India,UPI,Returned
+MSH60055,23/02/2025,CUST1068,MSH-HOM-003,Decorative Wall Stickers,Home Decor,2,124.64,India,Card,Delivered
+MSH60056,17/03/2025,CUST1044,MSH-HOM-002,Double Bedsheet,Home & Kitchen,1,538.97,India,Card,Delivered
+MSH60056,27/11/2025,CUST1080,MSH-FSH-002,Cotton Saree,Women Fashion,2,596.72,India,COD,Delivered
+MSH60057,21/02/2025,CUST1039,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,203.68,India,Card,Delivered
+MSH60057,18/10/2025,CUST1066,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,802.64,India,UPI,Delivered
+MSH60058,02/09/2025,CUST1066,MSH-FSH-002,Cotton Saree,Women Fashion,1,554.96,India,Card,Delivered
+MSH60058,18/12/2025,CUST1007,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,4,268.54,India,COD,Delivered
+MSH60059,07/08/2025,CUST1016,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,520.49,India,UPI,Delivered
+MSH60059,05/05/2025,CUST1044,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,444.92,India,Card,Delivered
+MSH60060,01/07/2025,CUST1011,MSH-FSH-002,Cotton Saree,Women Fashion,3,578.3,India,Card,Delivered
+MSH60060,28/10/2025,CUST1021,MSH-FSH-004,Men Casual Shirt,Men Fashion,3,444.43,India,Card,Cancelled
+MSH60061,09/09/2025,CUST1045,MSH-HOM-002,Double Bedsheet,Home & Kitchen,1,511.28,India,UPI,Cancelled
+MSH60061,06/09/2025,CUST1054,MSH-FSH-004,Men Casual Shirt,Men Fashion,3,446.97,India,Wallet,Delivered
+MSH60062,28/08/2025,CUST1070,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,519.92,India,UPI,Delivered
+MSH60062,11/10/2025,CUST1057,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,267.42,India,COD,Delivered
+MSH60063,01/10/2025,CUST1066,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,262.99,India,UPI,Delivered
+MSH60063,03/08/2025,CUST1059,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,3,231.43,India,COD,Delivered
+MSH60064,24/08/2025,CUST1037,MSH-FSH-005,Kids Party Dress,Kids Fashion,3,503.96,India,COD,Delivered
+MSH60064,01/10/2025,CUST1079,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,202.35,India,UPI,Returned
+MSH60065,08/09/2025,CUST1026,MSH-FSH-003,Printed Leggings,Women Fashion,1,175.1,India,UPI,Delivered
+MSH60065,02/04/2025,CUST1058,MSH-FSH-002,Cotton Saree,Women Fashion,4,528.72,India,UPI,Returned
+MSH60066,07/02/2025,CUST1043,MSH-HOM-004,Water Bottle Set,Home & Kitchen,2,199.0,India,Card,Delivered
+MSH60066,14/10/2025,CUST1047,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,3,271.74,India,Card,Delivered
+MSH60067,09/04/2025,CUST1082,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,532.3,India,COD,Delivered
+MSH60067,20/09/2025,CUST1031,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,234.49,India,UPI,Delivered
+MSH60068,15/12/2025,CUST1058,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,304.33,India,COD,Delivered
+MSH60068,28/12/2025,CUST1013,MSH-FSH-002,Cotton Saree,Women Fashion,2,580.13,India,UPI,Delivered
+MSH60069,23/04/2025,CUST1045,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,498.12,India,UPI,Delivered
+MSH60069,12/11/2025,CUST1053,MSH-FSH-002,Cotton Saree,Women Fashion,1,606.98,India,Card,Delivered
+MSH60070,12/05/2025,CUST1065,MSH-FSH-002,Cotton Saree,Women Fashion,3,581.82,India,Wallet,Delivered
+MSH60070,23/11/2025,CUST1052,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,134.1,India,COD,Delivered
+MSH60071,21/02/2025,CUST1080,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,413.0,India,COD,Delivered
+MSH60071,29/09/2025,CUST1074,MSH-ACC-002,Womens Handbag,Accessories,2,706.19,India,COD,Cancelled
+MSH60072,08/12/2025,CUST1061,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,2,277.78,India,Card,Delivered
+MSH60072,06/11/2025,CUST1079,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,192.27,India,COD,Delivered
+MSH60073,06/05/2025,CUST1041,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,4,401.51,India,Card,Delivered
+MSH60073,22/03/2025,CUST1027,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,434.14,India,Card,Delivered
+MSH60074,08/11/2025,CUST1034,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,431.54,India,Card,Delivered
+MSH60074,09/03/2025,CUST1078,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,203.47,India,UPI,Cancelled
+MSH60075,25/05/2025,CUST1001,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,2,303.98,India,Wallet,Delivered
+MSH60075,22/02/2025,CUST1023,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,390.97,India,UPI,Delivered
+MSH60076,22/03/2025,CUST1051,MSH-HOM-003,Decorative Wall Stickers,Home Decor,2,132.97,India,Wallet,Delivered
+MSH60076,08/05/2025,CUST1029,MSH-HOM-002,Double Bedsheet,Home & Kitchen,1,502.21,India,UPI,Delivered
+MSH60077,28/10/2025,CUST1073,MSH-FSH-003,Printed Leggings,Women Fashion,2,176.07,India,UPI,Delivered
+MSH60077,03/01/2025,CUST1002,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,348.33,India,COD,Returned
+MSH60078,08/06/2025,CUST1034,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,254.28,India,UPI,Cancelled
+MSH60078,01/11/2025,CUST1074,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,487.86,India,COD,Returned
+MSH60079,02/06/2025,CUST1030,MSH-ACC-002,Womens Handbag,Accessories,2,689.75,India,COD,Delivered
+MSH60079,20/05/2025,CUST1023,MSH-ACC-002,Womens Handbag,Accessories,1,707.32,India,UPI,Delivered
+MSH60080,07/12/2025,CUST1048,MSH-FSH-003,Printed Leggings,Women Fashion,2,175.98,India,COD,Delivered
+MSH60080,13/10/2025,CUST1072,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,130.32,India,UPI,Delivered
+MSH60081,20/02/2025,CUST1039,MSH-FSH-003,Printed Leggings,Women Fashion,3,181.26,India,UPI,Delivered
+MSH60081,06/09/2025,CUST1025,MSH-HOM-002,Double Bedsheet,Home & Kitchen,1,550.21,India,UPI,Delivered
+MSH60082,22/04/2025,CUST1052,MSH-FSH-001,Women Floral Kurti,Women Fashion,3,351.48,India,Wallet,Delivered
+MSH60082,20/05/2025,CUST1052,MSH-ACC-001,Fashion Jewellery Set,Accessories,2,231.35,India,Wallet,Delivered
+MSH60083,28/12/2025,CUST1035,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,134.2,India,Card,Delivered
+MSH60083,15/05/2025,CUST1064,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,4,269.8,India,Card,Delivered
+MSH60084,27/07/2025,CUST1034,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,234.8,India,COD,Delivered
+MSH60084,10/06/2025,CUST1059,MSH-ACC-002,Womens Handbag,Accessories,1,672.95,India,Card,Returned
+MSH60085,20/01/2025,CUST1051,MSH-FSH-003,Printed Leggings,Women Fashion,1,167.99,India,UPI,Delivered
+MSH60085,06/09/2025,CUST1072,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,459.11,India,UPI,Returned
+MSH60086,09/07/2025,CUST1062,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,2,378.63,India,COD,Delivered
+MSH60086,30/06/2025,CUST1023,MSH-HOM-004,Water Bottle Set,Home & Kitchen,2,175.66,India,UPI,Delivered
+MSH60087,29/01/2025,CUST1031,MSH-ACC-002,Womens Handbag,Accessories,4,646.7,India,UPI,Delivered
+MSH60087,28/02/2025,CUST1083,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,474.63,India,COD,Delivered
+MSH60088,12/10/2025,CUST1083,MSH-ELE-002,Mobile Cover,Electronics Accessories,1,150.25,India,UPI,Delivered
+MSH60088,27/03/2025,CUST1065,MSH-FSH-001,Women Floral Kurti,Women Fashion,4,350.04,India,UPI,Delivered
+MSH60089,14/09/2025,CUST1078,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,303.28,India,UPI,Delivered
+MSH60089,17/05/2025,CUST1017,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,416.93,India,UPI,Delivered
+MSH60090,21/02/2025,CUST1056,MSH-ACC-001,Fashion Jewellery Set,Accessories,2,223.31,India,UPI,Delivered
+MSH60090,26/11/2025,CUST1078,MSH-ACC-002,Womens Handbag,Accessories,1,726.85,India,COD,Returned
+MSH60091,05/07/2025,CUST1026,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,431.27,India,COD,Delivered
+MSH60091,04/12/2025,CUST1041,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,738.23,India,Card,Delivered
+MSH60092,02/04/2025,CUST1009,MSH-ACC-001,Fashion Jewellery Set,Accessories,2,229.13,India,Wallet,Delivered
+MSH60092,14/09/2025,CUST1059,MSH-FSH-003,Printed Leggings,Women Fashion,3,157.8,India,UPI,Delivered
+MSH60093,26/02/2025,CUST1033,MSH-ACC-002,Womens Handbag,Accessories,1,678.57,India,UPI,Delivered
+MSH60093,18/11/2025,CUST1002,MSH-ACC-001,Fashion Jewellery Set,Accessories,3,217.16,India,UPI,Delivered
+MSH60094,23/06/2025,CUST1047,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,394.31,India,Wallet,Delivered
+MSH60094,31/03/2025,CUST1064,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,225.05,India,COD,Delivered
+MSH60095,29/11/2025,CUST1072,MSH-ACC-002,Womens Handbag,Accessories,1,632.7,India,UPI,Delivered
+MSH60095,22/10/2025,CUST1021,MSH-ELE-002,Mobile Cover,Electronics Accessories,2,145.39,India,Card,Delivered
+MSH60096,01/05/2025,CUST1040,MSH-ELE-002,Mobile Cover,Electronics Accessories,1,154.54,India,UPI,Returned
+MSH60096,25/07/2025,CUST1062,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,3,292.94,India,UPI,Delivered
+MSH60097,07/07/2025,CUST1057,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,123.32,India,Card,Delivered
+MSH60097,09/09/2025,CUST1017,MSH-ACC-001,Fashion Jewellery Set,Accessories,2,228.25,India,UPI,Delivered
+MSH60098,25/07/2025,CUST1007,MSH-FSH-002,Cotton Saree,Women Fashion,2,528.4,India,UPI,Delivered
+MSH60098,04/02/2025,CUST1070,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,717.6,India,UPI,Delivered
+MSH60099,01/10/2025,CUST1018,MSH-FSH-001,Women Floral Kurti,Women Fashion,4,332.82,India,UPI,Delivered
+MSH60099,23/02/2025,CUST1014,MSH-FSH-001,Women Floral Kurti,Women Fashion,2,327.16,India,UPI,Delivered
+MSH60100,25/01/2025,CUST1065,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,404.96,India,UPI,Delivered
+MSH60100,10/12/2025,CUST1040,MSH-FSH-005,Kids Party Dress,Kids Fashion,3,446.19,India,UPI,Delivered
+MSH60101,06/07/2025,CUST1046,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,359.11,India,COD,Delivered
+MSH60101,07/10/2025,CUST1056,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,293.37,India,Card,Delivered
+MSH60102,09/10/2025,CUST1075,MSH-ACC-002,Womens Handbag,Accessories,2,701.51,India,UPI,Delivered
+MSH60102,30/06/2025,CUST1063,MSH-HOM-002,Double Bedsheet,Home & Kitchen,1,547.82,India,UPI,Delivered
+MSH60103,17/10/2025,CUST1079,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,357.16,India,Card,Delivered
+MSH60103,16/03/2025,CUST1054,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,265.75,India,COD,Returned
+MSH60104,23/08/2025,CUST1068,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,253.68,India,COD,Delivered
+MSH60104,25/12/2025,CUST1009,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,514.21,India,UPI,Returned
+MSH60105,28/11/2025,CUST1064,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,283.33,India,COD,Delivered
+MSH60105,13/09/2025,CUST1068,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,548.35,India,COD,Cancelled
+MSH60106,11/09/2025,CUST1007,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,2,706.5,India,UPI,Delivered
+MSH60106,22/03/2025,CUST1058,MSH-FSH-003,Printed Leggings,Women Fashion,1,158.03,India,Wallet,Delivered
+MSH60107,25/12/2025,CUST1028,MSH-ELE-002,Mobile Cover,Electronics Accessories,1,146.42,India,COD,Delivered
+MSH60107,09/12/2025,CUST1032,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,793.49,India,Card,Delivered
+MSH60108,25/02/2025,CUST1046,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,179.68,India,UPI,Delivered
+MSH60108,30/01/2025,CUST1013,MSH-HOM-003,Decorative Wall Stickers,Home Decor,2,121.7,India,COD,Cancelled
+MSH60109,22/05/2025,CUST1056,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,282.39,India,UPI,Delivered
+MSH60109,25/02/2025,CUST1053,MSH-FSH-003,Printed Leggings,Women Fashion,2,169.16,India,UPI,Delivered
+MSH60110,27/10/2025,CUST1008,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,207.93,India,UPI,Delivered
+MSH60110,02/06/2025,CUST1002,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,230.51,India,COD,Delivered
+MSH60111,27/10/2025,CUST1082,MSH-HOM-003,Decorative Wall Stickers,Home Decor,2,115.05,India,UPI,Delivered
+MSH60111,28/12/2025,CUST1014,MSH-FSH-002,Cotton Saree,Women Fashion,1,617.3,India,UPI,Delivered
+MSH60112,01/08/2025,CUST1071,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,771.36,India,COD,Delivered
+MSH60112,05/10/2025,CUST1013,MSH-FSH-003,Printed Leggings,Women Fashion,2,160.47,India,Wallet,Delivered
+MSH60113,31/05/2025,CUST1015,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,394.51,India,UPI,Delivered
+MSH60113,10/10/2025,CUST1069,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,555.06,India,Card,Delivered
+MSH60114,26/02/2025,CUST1042,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,3,287.96,India,UPI,Delivered
+MSH60114,30/11/2025,CUST1045,MSH-ACC-002,Womens Handbag,Accessories,2,637.37,India,COD,Delivered
+MSH60115,08/05/2025,CUST1011,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,469.45,India,COD,Delivered
+MSH60115,27/10/2025,CUST1047,MSH-HOM-004,Water Bottle Set,Home & Kitchen,2,184.38,India,UPI,Delivered
+MSH60116,14/12/2025,CUST1031,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,202.51,India,COD,Delivered
+MSH60116,22/10/2025,CUST1001,MSH-FSH-002,Cotton Saree,Women Fashion,1,568.75,India,COD,Returned
+MSH60117,05/03/2025,CUST1019,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,424.3,India,COD,Returned
+MSH60117,19/04/2025,CUST1034,MSH-ACC-002,Womens Handbag,Accessories,1,707.81,India,COD,Delivered
+MSH60118,19/12/2025,CUST1022,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,467.61,India,UPI,Delivered
+MSH60118,15/09/2025,CUST1028,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,424.61,India,COD,Delivered
+MSH60119,25/11/2025,CUST1057,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,3,831.7,India,Card,Returned
+MSH60119,16/12/2025,CUST1057,MSH-HOM-004,Water Bottle Set,Home & Kitchen,4,187.18,India,Wallet,Delivered
+MSH60120,28/08/2025,CUST1027,MSH-FSH-003,Printed Leggings,Women Fashion,4,176.42,India,COD,Delivered
+MSH60120,12/11/2025,CUST1077,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,822.25,India,Card,Delivered
+MSH60121,14/04/2025,CUST1030,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,259.89,India,COD,Returned
+MSH60121,29/11/2025,CUST1003,MSH-FSH-003,Printed Leggings,Women Fashion,4,175.39,India,Card,Delivered
+MSH60122,29/05/2025,CUST1071,MSH-FSH-001,Women Floral Kurti,Women Fashion,2,320.1,India,COD,Delivered
+MSH60122,09/12/2025,CUST1050,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,119.16,India,UPI,Delivered
+MSH60123,17/06/2025,CUST1033,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,2,250.8,India,UPI,Delivered
+MSH60123,13/06/2025,CUST1051,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,388.35,India,UPI,Delivered
+MSH60124,08/01/2025,CUST1020,MSH-ELE-002,Mobile Cover,Electronics Accessories,2,140.31,India,Card,Delivered
+MSH60124,04/04/2025,CUST1030,MSH-ACC-002,Womens Handbag,Accessories,2,684.19,India,Card,Delivered
+MSH60125,29/01/2025,CUST1054,MSH-FSH-002,Cotton Saree,Women Fashion,1,539.03,India,UPI,Returned
+MSH60125,10/12/2025,CUST1075,MSH-HOM-004,Water Bottle Set,Home & Kitchen,2,182.73,India,UPI,Delivered
+MSH60126,15/05/2025,CUST1070,MSH-FSH-001,Women Floral Kurti,Women Fashion,2,324.11,India,UPI,Delivered
+MSH60126,23/08/2025,CUST1070,MSH-ACC-001,Fashion Jewellery Set,Accessories,3,213.51,India,Card,Delivered
+MSH60127,04/01/2025,CUST1022,MSH-HOM-002,Double Bedsheet,Home & Kitchen,3,541.95,India,COD,Delivered
+MSH60127,06/09/2025,CUST1004,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,359.59,India,UPI,Delivered
+MSH60128,23/07/2025,CUST1059,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,2,794.41,India,COD,Delivered
+MSH60128,29/07/2025,CUST1025,MSH-FSH-002,Cotton Saree,Women Fashion,1,533.35,India,UPI,Delivered
+MSH60129,26/02/2025,CUST1040,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,265.79,India,UPI,Delivered
+MSH60129,01/05/2025,CUST1061,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,248.06,India,Card,Delivered
+MSH60130,12/10/2025,CUST1005,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,429.15,India,COD,Delivered
+MSH60130,23/01/2025,CUST1051,MSH-HOM-004,Water Bottle Set,Home & Kitchen,2,207.35,India,Card,Delivered
+MSH60131,29/04/2025,CUST1003,MSH-FSH-001,Women Floral Kurti,Women Fashion,2,315.59,India,UPI,Delivered
+MSH60131,18/11/2025,CUST1038,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,122.66,India,UPI,Delivered
+MSH60132,17/06/2025,CUST1010,MSH-HOM-002,Double Bedsheet,Home & Kitchen,3,544.61,India,Wallet,Delivered
+MSH60132,02/02/2025,CUST1062,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,3,395.43,India,COD,Delivered
+MSH60133,01/11/2025,CUST1037,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,828.61,India,Card,Delivered
+MSH60133,12/03/2025,CUST1039,MSH-HOM-002,Double Bedsheet,Home & Kitchen,1,535.05,India,COD,Delivered
+MSH60134,22/09/2025,CUST1034,MSH-HOM-002,Double Bedsheet,Home & Kitchen,1,485.59,India,Wallet,Delivered
+MSH60134,19/10/2025,CUST1030,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,472.22,India,UPI,Delivered
+MSH60135,29/08/2025,CUST1051,MSH-FSH-004,Men Casual Shirt,Men Fashion,4,438.01,India,UPI,Delivered
+MSH60135,19/06/2025,CUST1015,MSH-HOM-002,Double Bedsheet,Home & Kitchen,1,562.34,India,UPI,Delivered
+MSH60136,22/08/2025,CUST1021,MSH-FSH-004,Men Casual Shirt,Men Fashion,4,418.84,India,COD,Delivered
+MSH60136,02/02/2025,CUST1024,MSH-HOM-003,Decorative Wall Stickers,Home Decor,3,131.29,India,COD,Delivered
+MSH60137,08/12/2025,CUST1004,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,263.09,India,COD,Delivered
+MSH60137,22/05/2025,CUST1049,MSH-HOM-002,Double Bedsheet,Home & Kitchen,3,558.93,India,Card,Delivered
+MSH60138,03/09/2025,CUST1013,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,204.66,India,Card,Returned
+MSH60138,29/08/2025,CUST1018,MSH-HOM-002,Double Bedsheet,Home & Kitchen,1,504.06,India,UPI,Delivered
+MSH60139,09/06/2025,CUST1006,MSH-ELE-002,Mobile Cover,Electronics Accessories,1,132.51,India,COD,Delivered
+MSH60139,29/04/2025,CUST1065,MSH-ACC-002,Womens Handbag,Accessories,2,652.55,India,Card,Delivered
+MSH60140,22/03/2025,CUST1079,MSH-HOM-003,Decorative Wall Stickers,Home Decor,3,129.85,India,COD,Delivered
+MSH60140,30/05/2025,CUST1076,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,481.32,India,UPI,Delivered
+MSH60141,13/04/2025,CUST1027,MSH-ACC-002,Womens Handbag,Accessories,1,700.33,India,COD,Delivered
+MSH60141,22/05/2025,CUST1035,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,3,726.99,India,UPI,Delivered
+MSH60142,08/12/2025,CUST1030,MSH-HOM-003,Decorative Wall Stickers,Home Decor,2,123.86,India,UPI,Delivered
+MSH60142,13/04/2025,CUST1015,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,387.08,India,COD,Delivered
+MSH60143,20/10/2025,CUST1008,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,344.64,India,UPI,Delivered
+MSH60143,14/09/2025,CUST1021,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,230.84,India,UPI,Returned
+MSH60144,07/06/2025,CUST1042,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,254.25,India,UPI,Delivered
+MSH60144,20/09/2025,CUST1065,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,492.12,India,Card,Delivered
+MSH60145,24/09/2025,CUST1080,MSH-FSH-001,Women Floral Kurti,Women Fashion,2,327.29,India,Card,Delivered
+MSH60145,07/02/2025,CUST1021,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,117.73,India,Card,Delivered
+MSH60146,18/01/2025,CUST1057,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,213.83,India,Card,Delivered
+MSH60146,21/09/2025,CUST1016,MSH-FSH-002,Cotton Saree,Women Fashion,1,624.03,India,COD,Delivered
+MSH60147,15/08/2025,CUST1035,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,230.19,India,COD,Returned
+MSH60147,16/11/2025,CUST1058,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,4,303.91,India,UPI,Delivered
+MSH60148,23/11/2025,CUST1065,MSH-HOM-003,Decorative Wall Stickers,Home Decor,2,121.93,India,UPI,Cancelled
+MSH60148,27/11/2025,CUST1022,MSH-FSH-005,Kids Party Dress,Kids Fashion,4,491.65,India,COD,Delivered
+MSH60149,02/04/2025,CUST1085,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,321.91,India,UPI,Delivered
+MSH60149,06/12/2025,CUST1011,MSH-FSH-003,Printed Leggings,Women Fashion,1,181.43,India,UPI,Delivered
+MSH60150,18/09/2025,CUST1072,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,393.66,India,UPI,Delivered
+MSH60150,09/06/2025,CUST1043,MSH-ACC-002,Womens Handbag,Accessories,1,688.78,India,Wallet,Delivered
+MSH60151,28/04/2025,CUST1008,MSH-ELE-002,Mobile Cover,Electronics Accessories,2,156.38,India,UPI,Delivered
+MSH60151,26/12/2025,CUST1009,MSH-FSH-002,Cotton Saree,Women Fashion,4,556.87,India,COD,Delivered
+MSH60152,09/08/2025,CUST1076,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,747.27,India,UPI,Delivered
+MSH60152,19/07/2025,CUST1051,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,408.72,India,COD,Delivered
+MSH60153,05/01/2025,CUST1073,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,520.21,India,COD,Delivered
+MSH60153,02/03/2025,CUST1023,MSH-FSH-003,Printed Leggings,Women Fashion,1,182.27,India,Wallet,Delivered
+MSH60154,15/05/2025,CUST1024,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,436.57,India,UPI,Delivered
+MSH60154,28/03/2025,CUST1052,MSH-FSH-003,Printed Leggings,Women Fashion,1,169.76,India,UPI,Delivered
+MSH60155,11/11/2025,CUST1064,MSH-ELE-002,Mobile Cover,Electronics Accessories,3,144.64,India,COD,Delivered
+MSH60155,23/04/2025,CUST1004,MSH-FSH-003,Printed Leggings,Women Fashion,1,170.8,India,Card,Delivered
+MSH60156,07/10/2025,CUST1024,MSH-FSH-002,Cotton Saree,Women Fashion,1,586.92,India,UPI,Delivered
+MSH60156,09/08/2025,CUST1011,MSH-HOM-002,Double Bedsheet,Home & Kitchen,1,492.84,India,Wallet,Delivered
+MSH60157,27/04/2025,CUST1069,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,313.47,India,COD,Delivered
+MSH60157,09/07/2025,CUST1042,MSH-ACC-002,Womens Handbag,Accessories,1,620.78,India,COD,Delivered
+MSH60158,25/01/2025,CUST1004,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,2,721.28,India,UPI,Delivered
+MSH60158,21/05/2025,CUST1058,MSH-ACC-002,Womens Handbag,Accessories,1,691.37,India,UPI,Delivered
+MSH60159,19/07/2025,CUST1011,MSH-ACC-002,Womens Handbag,Accessories,4,704.47,India,Card,Delivered
+MSH60159,06/06/2025,CUST1082,MSH-FSH-001,Women Floral Kurti,Women Fashion,2,354.28,India,Card,Delivered
+MSH60160,23/05/2025,CUST1006,MSH-HOM-004,Water Bottle Set,Home & Kitchen,3,189.01,India,UPI,Returned
+MSH60160,02/02/2025,CUST1075,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,526.5,India,UPI,Delivered
+MSH60161,25/09/2025,CUST1018,MSH-HOM-002,Double Bedsheet,Home & Kitchen,3,494.83,India,Card,Delivered
+MSH60161,27/11/2025,CUST1046,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,318.12,India,COD,Returned
+MSH60162,02/05/2025,CUST1015,MSH-ACC-002,Womens Handbag,Accessories,1,683.26,India,COD,Delivered
+MSH60162,19/03/2025,CUST1067,MSH-HOM-004,Water Bottle Set,Home & Kitchen,2,183.09,India,UPI,Delivered
+MSH60163,04/01/2025,CUST1041,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,354.05,India,COD,Delivered
+MSH60163,19/03/2025,CUST1084,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,294.01,India,UPI,Delivered
+MSH60164,15/10/2025,CUST1073,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,2,411.98,India,UPI,Delivered
+MSH60164,21/12/2025,CUST1032,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,2,722.73,India,Wallet,Cancelled
+MSH60165,13/01/2025,CUST1032,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,250.12,India,UPI,Delivered
+MSH60165,13/06/2025,CUST1032,MSH-HOM-004,Water Bottle Set,Home & Kitchen,2,208.47,India,UPI,Delivered
+MSH60166,19/08/2025,CUST1069,MSH-ACC-001,Fashion Jewellery Set,Accessories,4,216.48,India,COD,Delivered
+MSH60166,30/03/2025,CUST1009,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,468.7,India,COD,Delivered
+MSH60167,06/10/2025,CUST1049,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,176.41,India,COD,Delivered
+MSH60167,08/05/2025,CUST1011,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,116.43,India,UPI,Delivered
+MSH60168,20/11/2025,CUST1040,MSH-FSH-003,Printed Leggings,Women Fashion,1,169.53,India,COD,Delivered
+MSH60168,04/08/2025,CUST1005,MSH-FSH-001,Women Floral Kurti,Women Fashion,2,354.73,India,UPI,Delivered
+MSH60169,04/04/2025,CUST1060,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,2,234.08,India,UPI,Delivered
+MSH60169,20/08/2025,CUST1012,MSH-FSH-001,Women Floral Kurti,Women Fashion,2,337.11,India,UPI,Delivered
+MSH60170,26/02/2025,CUST1035,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,479.43,India,Wallet,Delivered
+MSH60170,05/04/2025,CUST1073,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,3,769.58,India,COD,Delivered
+MSH60171,10/07/2025,CUST1084,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,507.04,India,UPI,Delivered
+MSH60171,03/10/2025,CUST1009,MSH-FSH-004,Men Casual Shirt,Men Fashion,3,413.06,India,UPI,Delivered
+MSH60172,26/05/2025,CUST1001,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,387.65,India,COD,Delivered
+MSH60172,09/08/2025,CUST1074,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,436.98,India,UPI,Delivered
+MSH60173,08/03/2025,CUST1067,MSH-ACC-001,Fashion Jewellery Set,Accessories,2,234.9,India,COD,Delivered
+MSH60173,21/05/2025,CUST1011,MSH-ACC-002,Womens Handbag,Accessories,4,693.95,India,Wallet,Delivered
+MSH60174,03/09/2025,CUST1011,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,2,377.24,India,UPI,Delivered
+MSH60174,13/08/2025,CUST1047,MSH-FSH-002,Cotton Saree,Women Fashion,1,527.3,India,Card,Delivered
+MSH60175,29/11/2025,CUST1016,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,202.55,India,UPI,Delivered
+MSH60175,21/11/2025,CUST1055,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,2,714.52,India,COD,Delivered
+MSH60176,14/09/2025,CUST1042,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,253.46,India,UPI,Delivered
+MSH60176,10/08/2025,CUST1042,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,2,292.54,India,UPI,Delivered
+MSH60177,20/01/2025,CUST1028,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,423.9,India,UPI,Delivered
+MSH60177,21/06/2025,CUST1032,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,398.52,India,UPI,Delivered
+MSH60178,23/06/2025,CUST1013,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,451.52,India,Card,Returned
+MSH60178,04/11/2025,CUST1016,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,366.2,India,COD,Delivered
+MSH60179,21/04/2025,CUST1018,MSH-FSH-001,Women Floral Kurti,Women Fashion,4,350.37,India,UPI,Delivered
+MSH60179,02/10/2025,CUST1004,MSH-FSH-002,Cotton Saree,Women Fashion,2,552.64,India,UPI,Delivered
+MSH60180,14/10/2025,CUST1055,MSH-FSH-003,Printed Leggings,Women Fashion,2,160.77,India,Card,Delivered
+MSH60180,09/09/2025,CUST1083,MSH-ELE-002,Mobile Cover,Electronics Accessories,4,153.24,India,UPI,Delivered
+MSH60181,20/09/2025,CUST1085,MSH-FSH-002,Cotton Saree,Women Fashion,1,622.83,India,UPI,Cancelled
+MSH60181,22/03/2025,CUST1067,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,183.07,India,COD,Delivered
+MSH60182,25/10/2025,CUST1007,MSH-FSH-002,Cotton Saree,Women Fashion,1,558.46,India,COD,Delivered
+MSH60182,22/07/2025,CUST1072,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,305.52,India,Wallet,Delivered
+MSH60183,09/07/2025,CUST1017,MSH-FSH-004,Men Casual Shirt,Men Fashion,3,444.48,India,Card,Delivered
+MSH60183,19/12/2025,CUST1058,MSH-HOM-003,Decorative Wall Stickers,Home Decor,2,119.3,India,UPI,Delivered
+MSH60184,05/10/2025,CUST1025,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,212.25,India,COD,Delivered
+MSH60184,05/06/2025,CUST1043,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,3,737.97,India,UPI,Delivered
+MSH60185,25/02/2025,CUST1058,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,234.07,India,UPI,Delivered
+MSH60185,07/01/2025,CUST1064,MSH-ACC-002,Womens Handbag,Accessories,1,681.5,India,UPI,Delivered
+MSH60186,01/06/2025,CUST1031,MSH-ELE-002,Mobile Cover,Electronics Accessories,2,136.6,India,COD,Delivered
+MSH60186,09/05/2025,CUST1039,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,380.74,India,COD,Delivered
+MSH60187,30/05/2025,CUST1059,MSH-ELE-002,Mobile Cover,Electronics Accessories,3,152.53,India,COD,Delivered
+MSH60187,17/07/2025,CUST1005,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,212.24,India,COD,Delivered
+MSH60188,10/10/2025,CUST1002,MSH-HOM-003,Decorative Wall Stickers,Home Decor,4,129.32,India,Card,Delivered
+MSH60188,11/07/2025,CUST1022,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,2,239.69,India,COD,Returned
+MSH60189,29/07/2025,CUST1020,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,378.23,India,UPI,Delivered
+MSH60189,07/05/2025,CUST1017,MSH-ELE-002,Mobile Cover,Electronics Accessories,2,142.38,India,Wallet,Delivered
+MSH60190,17/04/2025,CUST1034,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,234.43,India,COD,Delivered
+MSH60190,27/05/2025,CUST1080,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,401.23,India,COD,Delivered
+MSH60191,01/04/2025,CUST1081,MSH-FSH-003,Printed Leggings,Women Fashion,2,172.95,India,Wallet,Delivered
+MSH60191,10/08/2025,CUST1071,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,292.2,India,UPI,Delivered
+MSH60192,08/10/2025,CUST1047,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,3,275.4,India,COD,Delivered
+MSH60192,03/01/2025,CUST1055,MSH-HOM-002,Double Bedsheet,Home & Kitchen,3,555.84,India,COD,Delivered
+MSH60193,26/08/2025,CUST1068,MSH-HOM-002,Double Bedsheet,Home & Kitchen,3,513.54,India,UPI,Delivered
+MSH60193,03/02/2025,CUST1023,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,4,277.77,India,Card,Delivered
+MSH60194,14/11/2025,CUST1069,MSH-ELE-002,Mobile Cover,Electronics Accessories,3,131.5,India,UPI,Delivered
+MSH60194,18/06/2025,CUST1084,MSH-FSH-003,Printed Leggings,Women Fashion,4,187.56,India,UPI,Delivered
+MSH60195,03/06/2025,CUST1075,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,493.38,India,UPI,Delivered
+MSH60195,01/06/2025,CUST1007,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,501.23,India,Card,Delivered
+MSH60196,09/12/2025,CUST1076,MSH-FSH-003,Printed Leggings,Women Fashion,4,183.43,India,COD,Delivered
+MSH60196,10/02/2025,CUST1053,MSH-FSH-002,Cotton Saree,Women Fashion,1,559.33,India,UPI,Delivered
+MSH60197,02/10/2025,CUST1085,MSH-FSH-003,Printed Leggings,Women Fashion,1,182.55,India,UPI,Delivered
+MSH60197,27/11/2025,CUST1040,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,394.23,India,UPI,Delivered
+MSH60198,31/05/2025,CUST1008,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,384.24,India,UPI,Delivered
+MSH60198,04/04/2025,CUST1027,MSH-ACC-002,Womens Handbag,Accessories,1,667.95,India,Card,Delivered
+MSH60199,04/01/2025,CUST1040,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,460.12,India,UPI,Delivered
+MSH60199,07/05/2025,CUST1077,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,492.83,India,UPI,Returned
+MSH60200,30/04/2025,CUST1064,MSH-FSH-002,Cotton Saree,Women Fashion,3,625.34,India,UPI,Delivered
+MSH60200,18/08/2025,CUST1024,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,803.18,India,Card,Delivered
+MSH60201,16/09/2025,CUST1002,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,712.5,India,UPI,Delivered
+MSH60201,12/08/2025,CUST1055,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,371.4,India,Card,Delivered
+MSH60202,17/04/2025,CUST1013,MSH-FSH-003,Printed Leggings,Women Fashion,1,161.12,India,Card,Delivered
+MSH60202,05/07/2025,CUST1022,MSH-ACC-002,Womens Handbag,Accessories,1,636.44,India,UPI,Delivered
+MSH60203,24/01/2025,CUST1078,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,445.14,India,UPI,Returned
+MSH60203,30/04/2025,CUST1050,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,488.3,India,UPI,Delivered
+MSH60204,09/08/2025,CUST1079,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,177.77,India,UPI,Delivered
+MSH60204,22/01/2025,CUST1051,MSH-ELE-002,Mobile Cover,Electronics Accessories,3,155.93,India,Wallet,Delivered
+MSH60205,19/11/2025,CUST1079,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,542.28,India,COD,Delivered
+MSH60205,29/04/2025,CUST1053,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,260.45,India,UPI,Delivered
+MSH60206,21/04/2025,CUST1036,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,183.63,India,UPI,Delivered
+MSH60206,12/02/2025,CUST1065,MSH-FSH-002,Cotton Saree,Women Fashion,2,615.83,India,UPI,Delivered
+MSH60207,20/12/2025,CUST1077,MSH-HOM-004,Water Bottle Set,Home & Kitchen,2,199.5,India,Wallet,Delivered
+MSH60207,04/05/2025,CUST1052,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,365.65,India,UPI,Delivered
+MSH60208,18/06/2025,CUST1081,MSH-FSH-003,Printed Leggings,Women Fashion,3,158.39,India,Card,Delivered
+MSH60208,29/11/2025,CUST1020,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,559.9,India,UPI,Delivered
+MSH60209,18/01/2025,CUST1062,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,400.08,India,UPI,Delivered
+MSH60209,11/12/2025,CUST1033,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,305.72,India,Card,Delivered
+MSH60210,05/05/2025,CUST1001,MSH-HOM-002,Double Bedsheet,Home & Kitchen,3,538.91,India,UPI,Returned
+MSH60210,08/03/2025,CUST1023,MSH-FSH-004,Men Casual Shirt,Men Fashion,2,392.6,India,UPI,Delivered
+MSH60211,25/02/2025,CUST1065,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,2,384.14,India,Wallet,Returned
+MSH60211,18/07/2025,CUST1058,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,113.69,India,COD,Delivered
+MSH60212,09/12/2025,CUST1007,MSH-ELE-002,Mobile Cover,Electronics Accessories,1,142.01,India,UPI,Delivered
+MSH60212,17/02/2025,CUST1013,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,180.39,India,COD,Delivered
+MSH60213,07/09/2025,CUST1073,MSH-ACC-001,Fashion Jewellery Set,Accessories,4,225.19,India,UPI,Delivered
+MSH60213,28/11/2025,CUST1014,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,114.88,India,UPI,Delivered
+MSH60214,20/06/2025,CUST1054,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,197.3,India,UPI,Delivered
+MSH60214,18/12/2025,CUST1079,MSH-FSH-002,Cotton Saree,Women Fashion,1,529.65,India,COD,Delivered
+MSH60215,21/04/2025,CUST1063,MSH-ELE-002,Mobile Cover,Electronics Accessories,3,149.03,India,COD,Delivered
+MSH60215,26/12/2025,CUST1064,MSH-FSH-001,Women Floral Kurti,Women Fashion,2,343.56,India,UPI,Returned
+MSH60216,16/06/2025,CUST1080,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,423.67,India,COD,Delivered
+MSH60216,01/03/2025,CUST1002,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,306.68,India,UPI,Delivered
+MSH60217,22/02/2025,CUST1029,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,258.76,India,Card,Returned
+MSH60217,07/10/2025,CUST1042,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,2,363.7,India,UPI,Delivered
+MSH60218,31/10/2025,CUST1036,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,264.32,India,Wallet,Delivered
+MSH60218,11/08/2025,CUST1045,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,452.19,India,COD,Delivered
+MSH60219,08/09/2025,CUST1077,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,571.86,India,Card,Delivered
+MSH60219,22/06/2025,CUST1055,MSH-ACC-002,Womens Handbag,Accessories,2,660.21,India,Wallet,Delivered
+MSH60220,07/12/2025,CUST1033,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,2,774.36,India,Card,Delivered
+MSH60220,02/06/2025,CUST1081,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,217.56,India,UPI,Delivered
+MSH60221,06/10/2025,CUST1053,MSH-FSH-002,Cotton Saree,Women Fashion,1,609.37,India,COD,Delivered
+MSH60221,12/02/2025,CUST1069,MSH-ACC-001,Fashion Jewellery Set,Accessories,2,202.78,India,UPI,Delivered
+MSH60222,24/08/2025,CUST1015,MSH-FSH-003,Printed Leggings,Women Fashion,2,179.36,India,Card,Delivered
+MSH60222,07/02/2025,CUST1046,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,277.95,India,COD,Delivered
+MSH60223,14/03/2025,CUST1066,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,1,248.0,India,UPI,Delivered
+MSH60223,25/06/2025,CUST1079,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,130.33,India,COD,Delivered
+MSH60224,02/03/2025,CUST1044,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,3,264.24,India,UPI,Delivered
+MSH60224,06/05/2025,CUST1031,MSH-FSH-003,Printed Leggings,Women Fashion,2,158.3,India,COD,Delivered
+MSH60225,03/07/2025,CUST1024,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,327.21,India,COD,Delivered
+MSH60225,11/04/2025,CUST1056,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,470.34,India,Wallet,Delivered
+MSH60226,30/10/2025,CUST1063,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,555.71,India,COD,Delivered
+MSH60226,09/05/2025,CUST1020,MSH-FSH-002,Cotton Saree,Women Fashion,1,569.04,India,UPI,Delivered
+MSH60227,19/06/2025,CUST1011,MSH-ACC-002,Womens Handbag,Accessories,1,628.52,India,UPI,Cancelled
+MSH60227,02/02/2025,CUST1021,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,4,283.59,India,UPI,Delivered
+MSH60228,01/10/2025,CUST1082,MSH-FSH-005,Kids Party Dress,Kids Fashion,2,466.33,India,UPI,Delivered
+MSH60228,11/06/2025,CUST1070,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,418.61,India,UPI,Delivered
+MSH60229,16/10/2025,CUST1012,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,363.13,India,COD,Delivered
+MSH60229,15/08/2025,CUST1013,MSH-FSH-002,Cotton Saree,Women Fashion,1,542.74,India,UPI,Cancelled
+MSH60230,16/09/2025,CUST1056,MSH-ACC-001,Fashion Jewellery Set,Accessories,1,207.9,India,Wallet,Delivered
+MSH60230,12/02/2025,CUST1004,MSH-HOM-002,Double Bedsheet,Home & Kitchen,2,491.4,India,UPI,Delivered
+MSH60231,10/04/2025,CUST1016,MSH-ACC-002,Womens Handbag,Accessories,2,670.15,India,COD,Delivered
+MSH60231,01/03/2025,CUST1011,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,3,289.56,India,Card,Delivered
+MSH60232,24/01/2025,CUST1060,MSH-HOM-003,Decorative Wall Stickers,Home Decor,3,128.5,India,UPI,Delivered
+MSH60232,04/07/2025,CUST1024,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,2,266.73,India,COD,Delivered
+MSH60233,19/06/2025,CUST1023,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,2,356.63,India,Wallet,Delivered
+MSH60233,17/04/2025,CUST1031,MSH-ACC-001,Fashion Jewellery Set,Accessories,2,231.59,India,COD,Delivered
+MSH60234,16/03/2025,CUST1051,MSH-ELE-002,Mobile Cover,Electronics Accessories,1,143.42,India,COD,Delivered
+MSH60234,20/04/2025,CUST1037,MSH-ELE-002,Mobile Cover,Electronics Accessories,3,146.04,India,UPI,Delivered
+MSH60235,07/08/2025,CUST1047,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,296.93,India,COD,Delivered
+MSH60235,01/04/2025,CUST1071,MSH-ACC-002,Womens Handbag,Accessories,1,681.73,India,UPI,Delivered
+MSH60236,20/02/2025,CUST1026,MSH-FSH-001,Women Floral Kurti,Women Fashion,4,331.28,India,UPI,Delivered
+MSH60236,27/02/2025,CUST1021,MSH-FSH-004,Men Casual Shirt,Men Fashion,3,391.03,India,Card,Delivered
+MSH60237,01/12/2025,CUST1033,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,182.84,India,COD,Delivered
+MSH60237,13/07/2025,CUST1033,MSH-HOM-003,Decorative Wall Stickers,Home Decor,3,129.92,India,UPI,Delivered
+MSH60238,18/12/2025,CUST1048,MSH-ELE-002,Mobile Cover,Electronics Accessories,1,138.84,India,Wallet,Delivered
+MSH60238,08/06/2025,CUST1056,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,313.61,India,COD,Delivered
+MSH60239,02/07/2025,CUST1026,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,359.45,India,UPI,Delivered
+MSH60239,29/09/2025,CUST1065,MSH-HOM-003,Decorative Wall Stickers,Home Decor,1,122.56,India,UPI,Delivered
+MSH60240,02/11/2025,CUST1031,MSH-HOM-003,Decorative Wall Stickers,Home Decor,4,124.32,India,UPI,Delivered
+MSH60240,24/08/2025,CUST1020,MSH-HOM-002,Double Bedsheet,Home & Kitchen,3,501.71,India,Wallet,Delivered
+MSH60241,30/07/2025,CUST1060,MSH-FSH-004,Men Casual Shirt,Men Fashion,1,378.67,India,UPI,Delivered
+MSH60241,11/08/2025,CUST1032,MSH-FSH-003,Printed Leggings,Women Fashion,1,172.31,India,COD,Delivered
+MSH60242,14/09/2025,CUST1021,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,284.06,India,UPI,Delivered
+MSH60242,08/08/2025,CUST1048,MSH-BEA-002,Hair Care Kit,Beauty & Personal Care,3,252.33,India,UPI,Delivered
+MSH60243,15/02/2025,CUST1029,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,2,278.23,India,Wallet,Delivered
+MSH60243,14/02/2025,CUST1035,MSH-HOM-001,Kitchen Storage Set,Home & Kitchen,1,277.24,India,COD,Delivered
+MSH60244,26/05/2025,CUST1049,MSH-FSH-005,Kids Party Dress,Kids Fashion,4,466.61,India,COD,Delivered
+MSH60244,27/04/2025,CUST1072,MSH-ELE-002,Mobile Cover,Electronics Accessories,1,135.04,India,Card,Delivered
+MSH60245,10/04/2025,CUST1046,MSH-FSH-005,Kids Party Dress,Kids Fashion,4,506.07,India,UPI,Delivered
+MSH60245,04/10/2025,CUST1053,MSH-FSH-002,Cotton Saree,Women Fashion,1,530.67,India,COD,Delivered
+MSH60246,17/11/2025,CUST1058,MSH-ELE-002,Mobile Cover,Electronics Accessories,2,143.39,India,Wallet,Delivered
+MSH60246,28/07/2025,CUST1071,MSH-FSH-003,Printed Leggings,Women Fashion,1,173.2,India,UPI,Delivered
+MSH60247,24/04/2025,CUST1071,MSH-FSH-005,Kids Party Dress,Kids Fashion,1,483.52,India,UPI,Delivered
+MSH60247,02/06/2025,CUST1047,MSH-HOM-004,Water Bottle Set,Home & Kitchen,1,202.61,India,Wallet,Returned
+MSH60248,06/03/2025,CUST1001,MSH-BEA-001,Skincare Combo,Beauty & Personal Care,1,391.77,India,Card,Delivered
+MSH60248,02/01/2025,CUST1069,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,353.95,India,UPI,Delivered
+MSH60249,14/05/2025,CUST1018,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,725.55,India,UPI,Delivered
+MSH60249,31/05/2025,,MSH-ELE-001,Bluetooth Earbuds,Electronics Accessories,1,725.94,India,UPI,Delivered
+MSH60250,04/03/2025,CUST1047,MSH-FSH-002,Cotton Saree,,3,592.05,India,UPI,Delivered
+MSH60051,14/01/2025,CUST1075,MSH-FSH-001,Women Floral Kurti,Women Fashion,1,357.17,India,Card,Delivered

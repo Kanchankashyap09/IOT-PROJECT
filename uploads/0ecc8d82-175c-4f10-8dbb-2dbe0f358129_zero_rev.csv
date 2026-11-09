@@ -1,0 +1,3 @@
+InvoiceNo,CustomerID,OrderDate,Product,Quantity,UnitPrice
+INV-Z1,CUST-001,2024-01-10,Free Sample A,1,0
+INV-Z2,CUST-002,2024-01-12,Free Sample B,2,0

@@ -1,0 +1,3 @@
+InvoiceNo,CustomerID,OrderDate,Product,Quantity,UnitPrice
+INV-A,C1,2024-01-01,Gadget,1,100
+INV-B,C2,2024-01-02,Gizmo,2,50
